@@ -386,7 +386,7 @@ export default App;
 ## 1. Clone this Repository
 
 ~~~
-git clone https://github.com/YourUsername/OmniTutor.git
+git clone https://github.com/xatusbetazx17/OmniTutor.git
 cd OmniTutor
 ~~~
 
